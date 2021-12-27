@@ -1,6 +1,6 @@
 # How to buy BOMB
 
-You can currently buy BOMB on PancakeSwap.
+You can currently buy BOMB on PancakeSwap or using any Dex aggregator.
 
 
 
