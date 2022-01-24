@@ -13,6 +13,7 @@
 ## 💣 Protocol
 
 * [Tokens](protocol/tokens.md)
+* [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
 * [Platform](protocol/platform.md)
 * [BOMB Distribution](protocol/bomb-distribution.md)
 * [Bonds Mechanism](protocol/bonds-mechanism.md)

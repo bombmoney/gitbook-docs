@@ -2,7 +2,7 @@
 
 ### BOMB - bomb.money Token
 
-![bomb.money (BOMB)](../.gitbook/assets/bomb-256.png)
+![bomb.money (BOMB)](<../.gitbook/assets/bomb-256 (1).png>)
 
 Contract: [0x522348779DCb2911539e76A1042aA922F9C47Ee3](https://bscscan.com/address/0x522348779dcb2911539e76a1042aa922f9c47ee3)
 
@@ -14,9 +14,17 @@ BOMB token is designed to be used as a medium of exchange. The built-in stabilit
 Note that BOMB **actively pegs via the algorithm**, it **does not mean** it will be valued at 10,000 BOMB : 1 BTC at all times as it is not collaterized . BOMB is not to be confused for a crypto or fiat-backed stablecoin.
 {% endhint %}
 
+### xBOMB - BOMB Protocol Governance Token
+
+Contract: [0xAf16cB45B8149DA403AF41C63AbFEBFbcd16264b](https://bscscan.com/address/0xaf16cb45b8149da403af41c63abfebfbcd16264b)
+
+xBOMB is the governance token of BOMB Protocol.  It can be obtained by staking BOMB.
+
+Learn more about xBOMB on the [xBOMB - BOMB Staking page](xbomb-bomb-staking.md).
+
 ### BSHARES - BOMB Shares
 
-![BSHARE](../.gitbook/assets/bshare-256.png)
+![BSHARE](<../.gitbook/assets/bshare-256 (1).png>)
 
 Contract: [0x531780FAcE85306877D7e1F05d713D1B50a37F7A](https://bscscan.com/address/0x531780face85306877d7e1f05d713d1b50a37f7a)
 
@@ -35,7 +43,7 @@ BSHARE has a **maximum total supply of 70001** tokens distributed  as follows:
 
 ### BBOND - BOMB Bonds
 
-![BBOND](../.gitbook/assets/bbond-256.png)
+![BBOND](<../.gitbook/assets/bbond-256 (1).png>)
 
 Contract: [0xDA1d9C79240003195d0a67f202efcCCC3F78b994](https://bscscan.com/address/0xda1d9c79240003195d0a67f202efcccc3f78b994)
 
