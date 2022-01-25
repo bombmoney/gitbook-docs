@@ -8,7 +8,7 @@ At the beginning of every epoch, if the time weighted average price (TWAP) of BO
 
 The amount of new BOMB distributed depends on our position above peg and also current circulating supply of BOMB.
 
-| Circulating Supply | BOMB Minted     |
+| Circulating Supply | Max BOMB Minted |
 | ------------------ | --------------- |
 | 500k or less       | 4.5% expansion  |
 | Up to 1M           | 4% expansion    |
