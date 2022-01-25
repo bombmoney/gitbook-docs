@@ -26,7 +26,7 @@ Other users stake a combined 90,000 additional BOMB, making the total staked amo
 
 Now we have 100,000 xBOMB in total, and 100,000 BOMB in the xBOMB staking contract.
 
-10,000 BOMB are now sent to the xBOMB reward contract, making the total amount of BOMB in the contract 110,000 now.
+10,000 BOMB are now sent to the xBOMB reward contract, making the total amount of BOMB in the contract 110,000 now (learn where BOMB rewards come from below).
 
 Since the total amount of xBOMB is still 100,000, but the BOMB shared among stakers is 110,000, the exchange rate(ratio) will now be 1.1 BOMB per xBOMB.
 
