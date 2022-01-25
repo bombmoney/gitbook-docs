@@ -7,11 +7,11 @@
 * BOMB rewards claim will lock staked BSHARE for 6 epochs and the next BOMB rewards can only be claimed 3 epochs later
 *   Distribution of BOMB during Expansion
 
-    **80%** as Reward for Boardroom BSHARE Stakers
+    **60%** as Reward for Boardroom BSHARE Stakers
 
-    **15%** goes to DAO fund
+    **30%** goes to DAO fund
 
-    **5%** goes to DEV fund
+    **10%** goes to DEV fund
 * Epoch Expansion: Current expansion cap base on BOMB supply, if there are bonds to be redeemed, 65% of minted BOMB goes to treasury until its sufficiently full to meet bond redemption. If there is no debt it will follow max capped expansion rate
 
 ### Boardroom UI Available information
@@ -58,6 +58,6 @@ BBOND (bond tokens) are available for redemption when BOMB goes above the 1 BTCB
 
 To encourage redemption of BBOND for BOMB when BOMB TWAP > 1.1 and incentivize users to redeem at a higher price, BBOND redemption will be more profitable with a higher BOMB TWAP value, of which TBOND to BOMB ratio will be 1:R, where R can be calculated in the formula as shown below:
 
-&#x20;                       R=1+\[(BOMB(​twapprice)−1)∗coeff)]
+&#x20;                       R=1+\[(BOMB(​twapprice−1)∗coeff)]
 
 Where coeff = 0.7
