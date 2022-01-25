@@ -23,3 +23,8 @@
 
 * [How to buy BOMB](helpful-guides/how-to-buy-bomb.md)
 * [Provide LP](helpful-guides/provide-lp.md)
+
+## 💣 Links
+
+* [Discord](https://discord.bomb.money)
+* [Telegram](https://t.me/bombmoneybsc)
