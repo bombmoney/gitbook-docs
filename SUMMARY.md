@@ -28,3 +28,6 @@
 
 * [Discord](https://discord.bomb.money)
 * [Telegram](https://t.me/bombmoneybsc)
+* [Medium](https://bombbshare.medium.com)
+* [Twitter](https://twitter.com/bombmoneybsc)
+* [GitHub](https://github.com/bombmoney)
