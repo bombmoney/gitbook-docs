@@ -25,7 +25,7 @@ There are plenty of great guides already out there on how to set that up. Here a
 
 ### Funding Your Wallet
 
-Now that you're on Binance Smart Chain (BSC), you'll need to fund your wallet. You can do that by purchasing BSC's native token **BNB** on an exchange like [crypto.com](http://crypto.com), [Binance](https://www.binance.com), or any other exchange that allows withdrawal to Binance Smart Chain (BSC).
+Now that you're on Binance Smart Chain (BSC), you'll need to fund your wallet. You can do that by purchasing BSC's native token **BNB** on an exchange like [crypto.com](http://crypto.com), [Binance](https://www.binance.com), or any other exchange that allows withdrawal to Binance Smart Chain (BSC). Just be sure it's **BEP-20**, and not **BEP-2**.
 
 If you already have crypto on another network that you'd like to use on Binance Smart Chain (BSC) to invest in Bomb Money, you can also just bridge those funds over!
 
