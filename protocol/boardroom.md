@@ -2,7 +2,7 @@
 
 ## The Boardroom User Interface
 
-![The Boardroom user interface](<../.gitbook/assets/image (8).png>)
+![The Boardroom user interface](<../.gitbook/assets/Screenshot 2022-01-26 193115.png>)
 
 Let's take a look at each element of the Boardroom user interface and what it means.
 
