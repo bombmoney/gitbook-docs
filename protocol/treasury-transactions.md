@@ -1,6 +1,6 @@
 # Treasury Transactions
 
-Here all transactions pertaining to BOMB, performed with treasury funds will be listed.
+All transactions pertaining to BOMB performed with treasury funds will be listed here.
 
 *   Dec 1st 2021
 

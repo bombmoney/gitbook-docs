@@ -1,10 +1,12 @@
 ---
 description: >-
-  Staking bomb.money (BOMB) tokens rewards you with xBOMB - The BOMB Protocol
-  governance token.
+  Staking bomb.money (BOMB) tokens rewards you with xBOMB, the Bomb Money
+  protocol's governance token.
 ---
 
 # xBOMB - BOMB Staking
+
+![The BOMB staking user interface](<../.gitbook/assets/image (11).png>)
 
 ### What is xBOMB?
 
