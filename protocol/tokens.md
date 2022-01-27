@@ -14,6 +14,8 @@ Note that BOMB **actively pegs via an algorithm**, but that **does not mean** it
 
 ### [xBOMB - BOMB Protocol Governance Token](xbomb-bomb-staking.md)
 
+![xBOMB](../.gitbook/assets/xbomb-logo.png)
+
 Contract: [0xAf16cB45B8149DA403AF41C63AbFEBFbcd16264b](https://bscscan.com/address/0xaf16cb45b8149da403af41c63abfebfbcd16264b)
 
 xBOMB is the governance token of BOMB Protocol.  It can be obtained by staking BOMB.
