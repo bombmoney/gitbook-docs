@@ -38,7 +38,7 @@ Follow the instructions below to deposit into our BOMB-BTCB LP autovault and sta
 
 &#x20;5\. Once deposited, you will now be automatically farming BOMB-BTCB LP tokens, earning based on the APY/APR values shown.
 
-Withdrawal essentially works the same as depositing. On the right side of the vault you can simply input how much of your LP tokens you want to withdraw, or click the \[Withdraw All] button to withdraw them entirely. You can also select to withdraw in **BOMB+BTCB, BOMB,** or **BTCB** equivalent from the drop-down menu.
+Withdrawal essentially works the same as depositing. On the right side of the vault you can simply input how much of your LP tokens you want to withdraw, or click the **\[Withdraw All]** button to withdraw them entirely. You can also select to withdraw in **BOMB+BTCB, BOMB,** or **BTCB** equivalent from the drop-down menu.
 
 ## BSHARE-BNB LP Autovault
 
@@ -60,4 +60,4 @@ Follow the instructions below to deposit into our BSHARE-BNB LP autovault and st
 
 &#x20;5\. Once deposited, you will now be automatically farming BSHARE-BNB LP tokens, earning based on the APY/APR values shown.
 
-Withdrawal essentially works the same as depositing. On the right side of the vault you can simply input how much of your LP tokens you want to withdraw, or click the \[Withdraw All] button to withdraw them entirely. You can also select to withdraw in **BSHARE+BNB, BSHARE,** or **BNB** equivalent from the drop-down menu.
+Withdrawal essentially works the same as depositing. On the right side of the vault you can simply input how much of your LP tokens you want to withdraw, or click the **\[Withdraw All]** button to withdraw them entirely. You can also select to withdraw in **BSHARE+BNB, BSHARE,** or **BNB** equivalent from the drop-down menu.
