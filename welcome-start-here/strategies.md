@@ -16,15 +16,15 @@ The strategies described here are intended only to illustrate how to use the Bom
 
 This is the most simple and consistent strategy for new users, as it requires the fewest steps and the least effort to maintain (as in, zero effort). This option maintains the maximum amount of exposure to Bitcoin (BTC) while still earning incredible yields that automatically compound every two hours.
 
-If you're already holding BOMB and BTCB in your wallet and know how to throw that into the liquidity pool for LP tokens, you can do that manually if you like. (Refer to the [Provide LP](../../helpful-guides/provide-lp.md) section for instructions on how to do this if you are interested.) But, our autocompounder vault can also do this automatically for you, which is the method we recommend. (Check out the documentation on our [Autocompounding Vaults](../../protocol/autocompounding-vaults.md) if you have any questions about how to use them.)
+If you're already holding BOMB and BTCB in your wallet and know how to throw that into the liquidity pool for LP tokens, you can do that manually if you like. (Refer to the [Provide LP](../helpful-guides/provide-lp.md) section for instructions on how to do this if you are interested.) But, our autocompounder vault can also do this automatically for you, which is the method we recommend. (Check out the documentation on our [Autocompounding Vaults](autocompounding-vaults.md) if you have any questions about how to use them.)
 
 ### Semi-active Restaking Strategy
 
 Once you have familiarized yourself with the Bomb Money protocol and how everything works, you might be interested to try a more active and advanced strategy to diversify your passive income streams and potentially increase yields.
 
-One way to do this would be to buy some BOMB and pair it with BTCB to receive BOMB-BTCB LP tokens. (Refer to the [Provide LP](../../helpful-guides/provide-lp.md) section for instructions on how to do this.) You can then stake those LP tokens in our [Farms](../../protocol/farms.md) to earn BSHARE, which you can then withdraw on a regular basis and stake in the [Boardroom](../../protocol/boardroom.md) to earn additional BOMB when above peg and the Boardroom is printing.
+One way to do this would be to buy some BOMB and pair it with BTCB to receive BOMB-BTCB LP tokens. (Refer to the [Provide LP](../helpful-guides/provide-lp.md) section for instructions on how to do this.) You can then stake those LP tokens in our [Farms](../protocol/farms.md) to earn BSHARE, which you can then withdraw on a regular basis and stake in the [Boardroom](../protocol/boardroom.md) to earn additional BOMB when above peg and the Boardroom is printing.
 
-What you do with the BOMB you earn then is up to you. You could stake it for [xBOMB](../../protocol/xbomb-bomb-staking.md), sell it immediately on the open market, or throw it in the [BOMB-BTCB LP autocompounding vault](../../protocol/autocompounding-vaults.md) to earn even more compounding returns on those rewards.
+What you do with the BOMB you earn then is up to you. You could stake it for [xBOMB](../protocol/xbomb-bomb-staking.md), sell it immediately on the open market, or throw it in the [BOMB-BTCB LP autocompounding vault](autocompounding-vaults.md) to earn even more compounding returns on those rewards.
 
 ### **More Complex/Active Strategies**
 
