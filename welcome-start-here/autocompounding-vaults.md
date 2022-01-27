@@ -7,7 +7,7 @@ Staking either BOMB-BTCB LP or BSHARE-BNB LP tokens in these vaults rewards you 
 But here is where the auto-compounder magic steps in - every set amount of minutes, they harvest the BSHARE that you’ve earned and sell a portion of it automatically. The proceeds are then further used to mint more LP tokens on PancakeSwap which are again deposited into the Bomb Money autocompounder, further growing your allocation with zero effort on your part.
 
 {% hint style="info" %}
-Note that this entire process can be done manually, but the autocompounder saves you from having to do all this manually every day, simplifying the whole process down to a single click, and saving you loads in gas fees along the way.
+Note that while this entire process can be done manually, the autocompounder saves you from the hassle of having to schedule and remember specific actions, simplifying the whole process down to a single click and saving you loads in gas fees along the way.
 {% endhint %}
 
 Both the BOMB-BTCB LP and the BSHARE-BNB LP pools pay rewards in BSHARE. If you’re in the BSHARE-BNB LP pool, 50% of your BSHARE rewards are sold for BNB each time the protocol auto-compounds. If you’re in the BOMB-BTCB pool, 100% of your reward is sold and used to purchase half BOMB and half BTCB each time. Unlike the BOMB-BTCB vault, the BSHARE-BNB vault does not apply any buy pressure on BOMB.
@@ -15,9 +15,9 @@ Both the BOMB-BTCB LP and the BSHARE-BNB LP pools pay rewards in BSHARE. If you�
 To access the Bomb Money autocompounding vaults, just navigate to our [Autovaults](https://www.bomb.farm/#/bsc) page. If you have any questions about how to use them, check the relevant sections below for the vault you want to use!
 
 {% hint style="info" %}
-One of the great things about our BOMB-BTCB LP autovault is that, because it is selling BSHARE to purchase both BOMB and BTCB automatically every two hours, simply parking your BOMB or BTCB in this autovault will essentially be purchasing Bitcoin for you automatically.
+One of the great things about our BOMB-BTCB LP autovault is that because it is selling BSHARE to purchase both BOMB and BTCB automatically every two hours, simply parking your BOMB or BTCB in this autovault is all you need to do to add to your Bitcoin holdings automatically over time.
 
-In a bear market, this can be an extremely effective way to automatically DCA into your Bitcoin position and grow your Bitcoin holdings automatically, purely from rewards granted by the vault.
+In a bear market, this can be an extremely effective way to automatically DCA into your Bitcoin position and significantly grow your Bitcoin holdings, purely from rewards granted by the vault and without any manual effort.
 {% endhint %}
 
 ## BOMB-BTCB LP Autovault
