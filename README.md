@@ -30,6 +30,15 @@ As the Bomb Money ecosystem grows over time, the potential future applications a
 BOMB is the native token of the Bomb Money protocol. The built-in stability mechanisms within the protocol aim to maintain BOMB's peg of 10,000 BOMB = 1 Bitcoin (BTC) in the long run.
 {% endhint %}
 
+## What are the Bomb Money protocol tokens?&#x20;
+
+Bomb Money’s multi-token protocol currently consists of the following four tokens, and each plays a critical role in how the protocol works to maintain peg:
+
+1. **BOMB Tokens ($BOMB)** - The BOMB token is designed for use as a medium of exchange, and is intended to have many other use cases as the Bomb Money ecosystem grows. BOMB is algorithmically pegged to Bitcoin (BTC) at a ratio of 10,000 BOMB to 1 BTC.
+2. ****[**xBOMB Tokens ($XBOMB)**](protocol/xbomb-bomb-staking.md) - xBOMB is the governance token of BOMB Protocol. It can be obtained by staking BOMB. This helps to keep BOMB supply limited while providing another means of earning yield for BOMB holders, among other planned use cases.
+3. **BOMB Shares ($BSHARE)** - BSHARE can be staked in the [Boardroom](protocol/boardroom.md) to earn a portion of minted BOMB as rewards to those BSHARE holders for investing in the health and stability of the protocol.
+4. ****[**BOMB Bonds ($BBOND)**](protocol/bonds-mechanism.md) - BBOND’s main job is to help incentivize and reward users for helping to regain peg during times of supply contraction below peg.
+
 ## How does it work?
 
 The Bomb Money protocol works through a synergistic design of unique tokens and mechanisms that create an automatic, self-reinforcing system to help maintain the peg (10,000 BOMB = 1 Bitcoin). Each of these tokens and mechanisms will be explained in further detail within this documentation, but for now let's have a look at a brief overview of how it all works:
@@ -41,12 +50,3 @@ The Bomb Money protocol works through a synergistic design of unique tokens and 
 {% hint style="info" %}
 There are so many different ways you can utilize the mechanisms of the Bomb Money protocol to earn yield. Pick a strategy that is right for you, based upon your own knowledge and experience. Even the most simple and basic of strategies can earn great returns, but feel free to experiment with more complex strategies as you learn how the protocol works!
 {% endhint %}
-
-## What are the Bomb Money protocol tokens?&#x20;
-
-Bomb Money’s multi-token protocol currently consists of the following four tokens, and each plays a critical role in how the protocol works to maintain peg:
-
-1. **BOMB Tokens ($BOMB)** - The BOMB token is designed for use as a medium of exchange, and is intended to have many other use cases as the Bomb Money ecosystem grows. BOMB is algorithmically pegged to Bitcoin (BTC) at a ratio of 10,000 BOMB to 1 BTC.
-2. **xBOMB Tokens ($XBOMB)** - xBOMB is the governance token of BOMB Protocol. It can be obtained by staking BOMB. This helps to keep BOMB supply limited while providing another means of earning yield for BOMB holders, among other planned use cases.
-3. **BOMB Shares ($BSHARE)** - BSHARE can be staked in the Boardroom to earn a portion of minted BOMB as rewards to those BSHARE holders for investing in the health and stability of the protocol.
-4. **BOMB Bonds ($BBOND)** - BBOND’s main job is to help incentivize and reward users for helping to regain peg during times of supply contraction below peg.
