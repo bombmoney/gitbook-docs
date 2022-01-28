@@ -6,7 +6,7 @@ description: >-
 
 # xBOMB - BOMB Staking
 
-![The BOMB staking user interface](<../.gitbook/assets/image (11).png>)
+![The BOMB staking user interface](<../.gitbook/assets/xBOMB UI.png>)
 
 ### What is xBOMB?
 
