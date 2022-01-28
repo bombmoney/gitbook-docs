@@ -55,7 +55,7 @@ There are so many different ways you can utilize the mechanisms of the Bomb Mone
 
 BOMB is a token that is intended to track the price of Bitcoin (BTC) algorithmically. The ratio for this peg is set at 10,000 BOMB to 1 BTC. BOMB **actively tracks this peg via an algorithm**, but that **does not mean** it will be valued at 10,000 BOMB to 1 BTC at all times as **it is not collateralized**. **BOMB is not to be confused for a crypto or fiat-backed stablecoin.**&#x20;
 
-The entire design of the Bomb Money protocol is intended to try and maintain this peg as closely as possible, but as it is an algorithmic peg, this will never be a completely stable process. The unique profit-generating opportunities offered by the protocol actually exist because of these price fluctuations.
+The entire design of the Bomb Money protocol is intended to try and maintain this peg as closely as possible, but as it is an algorithmic peg, this will never be a completely stable process. In fact, some of the unique profit-generating opportunities offered by the protocol actually only exist because of these price fluctuations.
 
 To put it simply, there will **almost certainly be times when the price of BOMB is below peg**. This is a natural part of the process, and opens up opportunities for active investors/traders to "buy the dip" and help support the protocol by regaining peg, while also profiting from the discounted price.
 
