@@ -50,3 +50,17 @@ The Bomb Money protocol works through a synergistic design of unique tokens and 
 {% hint style="info" %}
 There are so many different ways you can utilize the mechanisms of the Bomb Money protocol to earn yield. Pick a strategy that is right for you, based upon your own knowledge and experience. Even the most simple and basic of strategies can earn great returns, but feel free to experiment with more complex strategies as you learn how the protocol works!
 {% endhint %}
+
+## What exactly is the peg?
+
+BOMB is a token that is intended to track the price of Bitcoin (BTC) algorithmically. The ratio for this peg is set at 10,000 BOMB to 1 BTC. BOMB **actively tracks this peg via an algorithm**, but that **does not mean** it will be valued at 10,000 BOMB to 1 BTC at all times as **it is not collateralized**. **BOMB is not to be confused for a crypto or fiat-backed stablecoin.**&#x20;
+
+The entire design of the Bomb Money protocol is intended to try and maintain this peg as closely as possible, but as it is an algorithmic peg, this will never be a completely stable process. The unique profit-generating opportunities offered by the protocol actually exist because of these price fluctuations.
+
+To put it simply, there will **almost certainly be times when the price of BOMB is below peg**. This is a natural part of the process, and opens up opportunities for active investors/traders to "buy the dip" and help support the protocol by regaining peg, while also profiting from the discounted price.
+
+![A visualization of BOMB price in relation to peg](<.gitbook/assets/BOMB Price Visualization.png>)
+
+When the protocol is healthy and stable, the price of BOMB will likely look similar to above, with price fluctuating above and below peg as the mechanisms of the protocol work to influence supply and demand and maintain an average price around the peg.
+
+Keep this in mind when developing your strategies and when taking a more active role in the protocol.
