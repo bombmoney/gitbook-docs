@@ -25,6 +25,7 @@
 ## 💣 Helpful Guides
 
 * [Provide LP](helpful-guides/provide-lp.md)
+* [Other Protocol Contract Addresses](helpful-guides/other-protocol-contract-addresses.md)
 
 ## 💣 Links
 
