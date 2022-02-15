@@ -21,11 +21,11 @@
 * [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
 * [Roadmap](protocol/roadmap.md)
 * [Treasury Transactions](protocol/treasury-transactions.md)
+* [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)
 
 ## 💣 Helpful Guides
 
 * [Provide LP](helpful-guides/provide-lp.md)
-* [Other Protocol Contract Addresses](helpful-guides/other-protocol-contract-addresses.md)
 
 ## 💣 Links
 
