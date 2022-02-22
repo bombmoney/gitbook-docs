@@ -8,7 +8,7 @@ Updates will be posted here as the Roadmap is updated.
 
 &#x20;_Last updated February 22nd, 2022_
 
-_Last completed item: Enable single staking of BTC from BTC main net._
+&#x20;_Last completed item: Enable single staking of BTC from BTC main net._
 
 * [x] Timelock all contracts. Timelock will be a minimum three-day lock on all contracts which control rewards or any other aspect of how the system functions. _(Completed Q1 2022)_
 * [x] Run our own BSC full node to provide RPC to our services and community.\
@@ -19,6 +19,7 @@ _Last completed item: Enable single staking of BTC from BTC main net._
 * [x] Autocompounding vaults. _(Completed Q4 2021)_
 * [x] Establish partner autocompounding vaults. _(Completed Q1 2022, more partnerships coming)_
 * [x] Add BOMB single staking (xBOMB). _(Completed Q1 2022)_
+* [x] Add new incentivized LP farm(s) to provide new ways for investors to optimize compounding yields within the protocol. _(Completed Q1 2022, added BOMB-BSHARE LP farm/autovault)_
 * [ ] Run a Bomb Money BSC validator (requires 10,000 BNB).
 * [x] Enable single staking of BTC from BTC main net. _(Completed Q1 2022 -_ [_BombBTC.com_](https://www.bombbtc.com)_)_
 * [ ] Other new and exciting ways for users outside of BSC to participate in our protocol.
