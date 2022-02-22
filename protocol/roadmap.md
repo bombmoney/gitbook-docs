@@ -18,7 +18,7 @@ Updates will be posted here as the Roadmap is updated.
 * [x] Establish partner autocompounding vaults. _(Completed Q1 2022, more partnerships coming)_
 * [x] Add BOMB single staking (xBOMB). _(Completed Q1 2022)_
 * [ ] Run a Bomb Money BSC validator (requires 10,000 BNB).
-* [ ] Enable single staking of BTC from BTC main net.
+* [x] Enable single staking of BTC from BTC main net. _(Completed Q1 2022 -_ [_BombBTC.com_](https://www.bombbtc.com)_)_
 * [ ] Other new and exciting ways for users outside of BSC to participate in our protocol.
 * [ ] Shift to a community governed project, where all contracts are owned by a DAO. Project decisions will be voted upon by protocol participants, weighted by their holdings of our governance token (xBOMB). (Currently projected for mid-2022.)
 * [ ] Launch BOMB CHAIN with BOMB as our native token. (Currently projected for late 2022.)
