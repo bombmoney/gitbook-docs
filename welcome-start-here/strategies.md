@@ -12,7 +12,7 @@ Congratulations! You've made it this far. Now that you're ready to start using B
 The strategies described here are intended only to illustrate how to use the Bomb Money protocol and **do not constitute financial advice**. Always do your own research and make your own decisions with regard to how you use Bomb Money.
 {% endhint %}
 
-### **BOMB-BTCB Liquidity Pool Autocompounding Vault Strategy**
+### **⭐BOMB-BTCB Liquidity Pool Autocompounding Vault Strategy**
 
 This is the most simple and consistent strategy for new users, as it requires the fewest steps and the least effort to maintain (as in, zero effort). This option maintains the maximum amount of exposure to Bitcoin (BTC) while still earning incredible yields that automatically compound every two hours.
 
