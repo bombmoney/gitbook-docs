@@ -2,7 +2,7 @@
 
 **One of the unique advantages of being in the Bomb Money ecosystem is that we have our own autocompounding vaults which are designed to maximize your earning potential.**
 
-Staking either BOMB-BTCB LP or BSHARE-BNB LP tokens in these vaults rewards you with more of the same LP (liquidity pool) tokens as the ones you have deposited. These deposits happen in the same yield farms that are available to everyone else on Bomb Money.
+Staking BOMB-BTCB LP, BSHARE-BNB LP, or BOMB-BSHARE LP tokens in these vaults rewards you with more of the same LP (liquidity pool) tokens as the ones you have deposited. These deposits happen in the same yield farms that are available to everyone else on Bomb Money.
 
 But here is where the auto-compounder magic steps in - every set amount of minutes, they harvest the BSHARE that you’ve earned and sell a portion of it automatically. The proceeds are then further used to mint more LP tokens on PancakeSwap which are again deposited into the Bomb Money autocompounder, further growing your allocation with zero effort on your part.
 
@@ -10,7 +10,7 @@ But here is where the auto-compounder magic steps in - every set amount of minut
 Note that while this entire process can be done manually, the autocompounder saves you from the hassle of having to schedule and remember specific actions, simplifying the whole process down to a single click and saving you loads in gas fees along the way.
 {% endhint %}
 
-Both the BOMB-BTCB LP and the BSHARE-BNB LP pools pay rewards in BSHARE. If you’re in the BSHARE-BNB LP pool, 50% of your BSHARE rewards are sold for BNB each time the protocol auto-compounds. If you’re in the BOMB-BTCB pool, 100% of your reward is sold and used to purchase half BOMB and half BTCB each time. Unlike the BOMB-BTCB vault, the BSHARE-BNB vault does not apply any buy pressure on BOMB.
+The BOMB-BTCB LP, BSHARE-BNB LP, and BOMB-BSHARE LP pools pay rewards in BSHARE. If you’re in the BOMB-BSHARE or BSHARE-BNB LP pools, 50% of your BSHARE rewards are sold for BNB each time the protocol auto-compounds. If you’re in the BOMB-BTCB pool, 100% of your reward is sold and used to purchase half BOMB and half BTCB each time. Unlike the BOMB-BTCB or BOMB-BSHARE vaults, the BSHARE-BNB vault does not apply any buy pressure on BOMB.
 
 To access the Bomb Money autocompounding vaults, just navigate to our [Autovaults](https://www.bomb.farm/#/bsc) page. If you have any questions about how to use them, check the relevant sections below for the vault you want to use!
 
