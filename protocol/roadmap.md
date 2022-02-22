@@ -8,8 +8,6 @@ Updates will be posted here as the Roadmap is updated.
 
 &#x20;_Last updated February 22nd, 2022_
 
-&#x20;_Last completed item: Enable single staking of BTC from BTC main net._
-
 * [x] Timelock all contracts. Timelock will be a minimum three-day lock on all contracts which control rewards or any other aspect of how the system functions. _(Completed Q1 2022)_
 * [x] Run our own BSC full node to provide RPC to our services and community.\
   (Done: https://bsc1.bomb.money) _(Completed Q4 2021)_
