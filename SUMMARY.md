@@ -34,3 +34,4 @@
 * [Medium](https://bombbshare.medium.com)
 * [Twitter](https://twitter.com/bombmoneybsc)
 * [GitHub](https://github.com/bombmoney)
+* [StaySafu Audit](https://www.staysafu.org/audit/bombmoney)
