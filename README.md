@@ -1,7 +1,3 @@
----
-description: About bomb.money
----
-
 # Introduction
 
 Welcome to Bomb Money! If this is your first time here, please take some time to read through this documentation before you begin using the protocol. This documentation is intended to take you through the entire process of how to get started using Bomb Money to earn stable, high yields that are only possible through the power of DeFi, but with the stability and security of exposure to Bitcoin, the world's largest and most stable crypto asset. Let's dive in!
