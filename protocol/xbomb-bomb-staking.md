@@ -40,7 +40,6 @@ Any new BOMB deposits at this point will receive xBOMB at the current exchange r
 
 There are numerous sources of BOMB for the xBOMB holders:
 
-* Between January 24th and February 7th, 50,000 BOMB will be deposited into the xBOMB smart contract to benefit early stakers. That is an average of over 3,500 BOMB per day, over $10,000 USD per day during this period!
 * 20% of all BOMB minted on expansionary epochs will be deposited for xBOMB holders. This comes from the protocols BOMB allocation and has no negative impact on BSHARE staking.
 * 80% of all fees collected from the autocompounding vaults will be used to buy BOMB on the open market and deposited for xBOMB holders.
 
