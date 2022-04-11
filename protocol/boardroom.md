@@ -27,12 +27,10 @@ Let's take a look at each element of the Boardroom user interface and what it me
 * Any interaction with the Boardroom (staking/unstaking BSHARE or withdrawing BOMB rewards) will **lock your staked BSHARE for 6 epochs and BOMB rewards for 3 epochs.**&#x20;
 *   Distribution of BOMB during expansion (Boardoom printing):
 
-    **60%** goes to Boardroom BSHARE stakers as rewards\
+    **75%** goes to Boardroom BSHARE stakers as rewards\
     **20%** goes to BOMB stakers (xBOMB)
 
-    **10%** goes to DAO fund
-
-    **10%** goes to dev fund
+    **5%** goes to DAO fund
 * Epoch Expansion: The current expansion cap is based on the currently circulating BOMB supply (see [BOMB Distribution](bomb-distribution.md) for details). If there are bonds to be redeemed, 65% of minted BOMB goes to the treasury until its sufficiently stocked to satisfy future bond redemption.
 
 {% hint style="info" %}
@@ -85,10 +83,10 @@ Let's take a look at a simplified example for a _non-debt phase_: say you have 1
 
 For this example we are assuming that there is a total circulating supply of 10,000 BOMB and the current expansion rate is at 4%, so a total of 400 BOMB will be printed in the Boardroom. Under the protocol's current rules, 60% of those newly printed BOMB will be distributed to BSHARE stakers in the Boardroom. (See the [BOMB Distribution](bomb-distribution.md) page for more details on how BOMB is distributed within the protocol.)\
 \
-Therefore, you would get: ((0.04 _\*_ 10000) _\*_ 0.6) \* (1/10) = **24 BOMB**.\
+Therefore, you would get: ((0.04 _\*_ 10000) _\*_ 0.75) \* (1/10) = **30 BOMB**.\
 \
 Thus, the formula to calculate your rewards is as follows:\
-((_ExpansionRate_ \* _CirculatingBOMBSupply)_ \* 0.6) \* (_YourBShareStake_ / _TotalBShareStaked_)
+((_ExpansionRate_ \* _CirculatingBOMBSupply)_ \* 0.75) \* (_YourBShareStake_ / _TotalBShareStaked_)
 
 ### 10. How long will it take for BSHARE to pay itself off from BOMB rewards based on current prices?
 
