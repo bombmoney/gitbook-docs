@@ -61,25 +61,3 @@ Follow the instructions below to deposit into our BSHARE-BNB LP autovault and st
 &#x20;5\. Once deposited, you will now be automatically farming BSHARE-BNB LP tokens, earning based on the APY/APR values shown.
 
 Withdrawal essentially works the same as depositing. On the right side of the vault you can simply input how much of your LP tokens you want to withdraw, or click the **\[Withdraw All]** button to withdraw them entirely. You can also select to withdraw in **BSHARE+BNB, BSHARE,** or **BNB** equivalent from the drop-down menu.
-
-## BOMB-BSHARE Autovault
-
-Follow the instructions below to deposit into our BOMB-BSHARE LP autovault and start earning auto-compounding returns on your BOMB and BSHARE every two hours with zero effort.
-
-&#x20;1\. Click on the **BOMB-BSHARE LP autovault** (shown below with a red border) to expand it.
-
-![](<../.gitbook/assets/Autovaults BOMBBSHARE.png>)
-
-2\. You can click on the dropdown menu highlighted in red below to switch between the ability to deposit **BOMB-BSHARE LP** tokens directly, or zap in **BOMB** or **BSHARE**.
-
-![](<../.gitbook/assets/image (1).png>)
-
-![](<../.gitbook/assets/image (4).png>)
-
-&#x20;3\. If it's your first time depositing into the autovault, you may have to approve your tokens to be sent first. Just click the **\[Approve]** button and approve the transaction in your wallet, then you will be able to deposit.
-
-&#x20;4\. Fill in the amount you want to deposit, or click the **\[Deposit All]** button to deposit all of the selected tokens from your wallet into the autovault.
-
-&#x20;5\. Once deposited, you will now be automatically farming BOMB-BSHARE LP tokens, earning based on the APY/APR values shown.
-
-Withdrawal essentially works the same as depositing. On the right side of the vault you can simply input how much of your LP tokens you want to withdraw, or click the **\[Withdraw All]** button to withdraw them entirely. You can also select to withdraw in **BOMB+BSHARE, BOMB,** or **BSHARE** equivalent from the drop-down menu.

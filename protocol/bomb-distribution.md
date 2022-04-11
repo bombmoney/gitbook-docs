@@ -22,4 +22,4 @@ The amount of new BOMB distributed depends on our position above peg and also th
 
 ## BOMB Rewards Distribution Flowchart
 
-![A flowchart of how BOMB rewards are distributed throughout the protocol](<../.gitbook/assets/BOMB Protocol Minting Flow.drawio (2).png>)
+![](<../.gitbook/assets/bomb distribution (1).png>)
