@@ -11,6 +11,12 @@
 * [Strategies](welcome-start-here/strategies.md)
 * [Autocompounding Vaults](welcome-start-here/autocompounding-vaults.md)
 
+## 💣 Strategies
+
+* [General / Quick ROI Strategy](strategies/general-quick-roi-strategy.md)
+* [Long Term Highest Paying Strategy](strategies/long-term-highest-paying-strategy.md)
+* [Migrating Positions Properly](strategies/migrating-positions-properly.md)
+
 ## 💣 Protocol
 
 * [Tokens](protocol/tokens.md)
