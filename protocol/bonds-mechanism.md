@@ -1,6 +1,6 @@
 # Bonds (BBOND)
 
-![The "Pit", where you can interact with the protocol's bonding mechanism](<../.gitbook/assets/image (9).png>)
+![The "Pit", where you can interact with the protocol's bonding mechanism](<../.gitbook/assets/image (9) (1).png>)
 
 ### What are BBOND (Bonds)?
 

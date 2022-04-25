@@ -30,7 +30,7 @@ Follow the instructions below to deposit into our BOMB-BTCB LP autovault and sta
 
 2\. You can click on the dropdown menu highlighted in red below to switch between the ability to deposit **BOMB-BTCB LP** tokens directly, or zap in **BOMB** or **BTCB**.
 
-![](<../.gitbook/assets/image (10).png>) ![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (10).png>) ![](<../.gitbook/assets/image (3) (1).png>)
 
 &#x20;3\. If it's your first time depositing into the autovault, you may have to approve your tokens to be sent first. Just click the **\[Approve]** button and approve the transaction in your wallet, then you will be able to deposit.
 
