@@ -27,6 +27,7 @@
 * [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
 * [Roadmap](protocol/roadmap.md)
 * [Treasury Transactions](protocol/treasury-transactions.md)
+* [Ledger, xBOMB Collateral workaround](protocol/ledger-xbomb-collateral-workaround.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)
 
 ## 💣 Helpful Guides
