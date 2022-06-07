@@ -22,7 +22,7 @@ BBOND TWAP (time-weighted average price) is based on the BOMB TWAP from the prev
 
 ### Where can I buy BBOND (Bonds)?
 
-You can buy BBONDs if any are available through [bomb.money](https://app.bomb.money/bond) in the [Pit](https://app.bomb.money/bond). Anyone can buy as many BBONDs as they want as long as they have enough BOMB to pay for them.
+You can buy BBONDs if any are available through [bomb.money](https://app.bomb.money/bond) in the boardroom. Anyone can buy as many BBONDs as they want as long as they have enough BOMB to pay for them.
 
 There is a limit of available BBONDs per epoch during contraction periods (3% of BOMB's current  circulating supply), and are sold first-come-first-serve.
 
@@ -58,7 +58,7 @@ But, if I buy BOMB at 0.8, burn it for BBOND, and redeem it at 1.15, I'm getting
 
 But, what if getting back to peg is taking too long?
 
-We will adjust our use cases to have different behaviors on contraction and expansion periods to benefit both BOMB and BBOND holders when needed.
+We will adjust our use cases to have different behaviours on contraction and expansion periods to benefit both BOMB and BBOND holders when needed.
 
 ### What is the formula to calculate the redemption bonus for BBOND?
 
