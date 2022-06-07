@@ -10,7 +10,7 @@ Updates will be posted here as the Roadmap is updated.
 
 * [x] Timelock all contracts. Timelock has a one day lock on all contracts which control rewards or any other aspect of how the system functions. _(Completed Q1 2022)_
 * [x] Initial website redesign. _(Completed Q4 2021)_
-* [ ] Complete website revamp to make our core features much easier to understand and to allow for simpler participation in the protocol.
+* [ ] Complete website revamp to make our core features much easier to understand and to allow for simpler participation in the protocol. ([Ongoing here](https://max.bomb.app/home))
 * [x] Complete documentation revamp. _(Completed Q1 2022)_
 * [x] Autocompounding vaults. _(Completed Q4 2021)_
 * [x] Establish partner autocompounding vaults. _(Completed Q1 2022, more partnerships coming)_
