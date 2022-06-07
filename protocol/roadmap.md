@@ -23,4 +23,5 @@ Updates will be posted here as the Roadmap is updated.
 * [ ] Develop a full Tarot fork on BSC, giving access to all other protocols to use. Fees to support the BOMB ecosystem. (Ongoing!)
 * [x] Create our own Abracadabra (MIM) fork, [busm.money](https://busm.money/), with xBOMB as collateral. (Completed Q2 2022. More options coming!)
 * [x] Partner with [Midas Capital ](https://app.midascapital.xyz/56/pool/0)to enable BOMB, LP's and BTCB as collateral. (Completed Q2 2022)
+* [x] Launch [CZpegs](https://www.czpegs.com/) to provide a foundation for BOMB to grow upon. (Completed Q2 2022)
 * [ ] Launch BOMB CHAIN with BOMB as our native token. (Currently projected for late 2022/early 2023.)
