@@ -6,7 +6,7 @@ description: Roadmap outlining the future for Bomb Money
 
 Updates will be posted here as the Roadmap is updated.
 
-&#x20;_Last updated February 22nd, 2022_
+&#x20;_Last updated June 7th, 2022_
 
 * [x] Timelock all contracts. Timelock has a one day lock on all contracts which control rewards or any other aspect of how the system functions. _(Completed Q1 2022)_
 * [x] Initial website redesign. _(Completed Q4 2021)_
