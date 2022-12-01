@@ -41,4 +41,6 @@
 * [Medium](https://bombbshare.medium.com)
 * [Twitter](https://twitter.com/bombmoneybsc)
 * [GitHub](https://github.com/bombmoney)
+* [Risk Information](https://raw.githubusercontent.com/bombmoney/bomb-assets/master/RiskInformationNov22.pdf)
+* [Terms of service](https://raw.githubusercontent.com/bombmoney/bomb-assets/master/TermsofServiceNov22.pdf)
 * [StaySafu Audit](https://www.staysafu.org/audit/bombmoney)
