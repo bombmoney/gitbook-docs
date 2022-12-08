@@ -25,6 +25,7 @@
 * [Bonds (BBOND)](protocol/bonds-mechanism.md)
 * [Farms](protocol/farms.md)
 * [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
+* [LP Bonding](protocol/lp-bonding.md)
 * [Roadmap](protocol/roadmap.md)
 * [Treasury Transactions](protocol/treasury-transactions.md)
 * [Ledger, xBOMB Collateral workaround](protocol/ledger-xbomb-collateral-workaround.md)
