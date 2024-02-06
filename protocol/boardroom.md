@@ -11,47 +11,47 @@ Let's take a look at each element of the Boardroom user interface and what it me
 2. **CURRENT EPOCH**\
    The number of the current epoch.
 3. **BOMB PEG (TWAP)**\
-   The TWAP (time-weighted average price) of the BOMB peg. The Boardroom only mints new BOMB as rewards for BSHARE stakers when this value **is above 1.01** **at the end of the current epoch**.
+   The TWAP (time-weighted average price) of the BOMB peg. The Boardroom only mints new BOMB as rewards for B2SHARE stakers when this value **is above 1.01** **at the end of the current epoch**.
 4. **APR**\
-   The yield for BSHARE stakers in the Boardroom **if the Boardroom was printing every epoch**. This calculation is based on **the last recorded print in the Boardroom**.
-5. **BSHARES STAKED**\
-   ****The total amount of BSHARE currently staked in the Boardroom.
+   The yield for B2SHARE stakers in the Boardroom **if the Boardroom was printing every epoch**. This calculation is based on **the last recorded print in the Boardroom**.
+5. **B2SHARES STAKED**\
+   The total amount of B2SHARE currently staked in the Boardroom.
 6. **BOMB Earned**\
-   ****The amount of BOMB you've earned as rewards for staking BSHARE in the Boardroom.
-7. **BSHARE Staked**\
-   The amount of BSHARE you currently have staked in the Boardroom.
+   The amount of BOMB you've earned as rewards for staking B2SHARE in the Boardroom.
+7. **B2SHARE Staked**\
+   The amount of B2SHARE you currently have staked in the Boardroom.
 
 ### Boardroom Specifications
 
 * Epoch duration: 6 hours
-* Any interaction with the Boardroom (staking/unstaking BSHARE or withdrawing BOMB rewards) will **lock your staked BSHARE for 6 epochs and BOMB rewards for 3 epochs.**&#x20;
+* Any interaction with the Boardroom (staking/unstaking B2SHARE or withdrawing BOMB rewards) will **lock your staked B2SHARE for 6 epochs and BOMB rewards for 3 epochs.**&#x20;
 *   Distribution of BOMB during expansion (Boardoom printing):
 
-    **75%** goes to Boardroom BSHARE stakers as rewards\
+    **75%** goes to Boardroom B2SHARE stakers as rewards\
     **20%** goes to BOMB stakers (xBOMB)
 
     **5%** goes to DAO fund
 * Epoch Expansion: The current expansion cap is based on the currently circulating BOMB supply (see [BOMB Distribution](bomb-distribution.md) for details). If there are bonds to be redeemed, 65% of minted BOMB goes to the treasury until its sufficiently stocked to satisfy future bond redemption.
 
 {% hint style="info" %}
-Note that the Boardroom **does not** print any rewards for BSHARE stakers when the Boardroom TWAP < 1.01.
+Note that the Boardroom **does not** print any rewards for B2SHARE stakers when the Boardroom TWAP < 1.01.
 {% endhint %}
 
 ## Boardroom FAQ
 
 ### **1. Once BBONDs are issued, does the Boardroom stop printing BOMB until we are above peg again?**
 
-Staking BSHARE will only give you BOMB rewards when the price of BOMB is above the peg (10,000 BOMB to 1 BTC), but not when it is under the peg.
+Staking B2SHARE will only give you BOMB rewards when the price of BOMB is above the peg (10,000 BOMB to 1 BTC), but not when it is under the peg.
 
 ### **2. What happens if I interact with the Boardroom in any way? Are there any lockup periods?**
 
-Yes, there are two lockup timers. One for BOMB rewards and one for staked BSHARE. **Any interaction with the Boardroom will reset both timers.** The lockup period for withdrawing BOMB rewards is **3 epochs (18 hours)**, or **6 epochs (36 hours)** to unstake your BSHARE.
+Yes, there are two lockup timers. One for BOMB rewards and one for staked B2SHARE. **Any interaction with the Boardroom will reset both timers.** The lockup period for withdrawing BOMB rewards is **3 epochs (18 hours)**, or **6 epochs (36 hours)** to unstake your B2SHARE.
 
 ### **3. Are the Boardroom rewards pro-rated by time? For example, if I stake three hours before the end of an epoch versus five hours before the end of an epoch, would I get different rewards?**
 
 No, Boardroom rewards are determined by how much you have staked at the time of printing (i.e., at the end of one epoch and the start of the other). It doesn't matter if you stake three hours before or thirty seconds before the emissions occur.
 
-### 4. If I remove my BSHARE from the Boardroom without first collecting my BOMB, will they be lost forever?
+### 4. If I remove my B2SHARE from the Boardroom without first collecting my BOMB, will they be lost forever?
 
 No, they will still be there to collect whenever you need.
 
@@ -79,21 +79,21 @@ Depending on the price of BOMB, the Boardroom print will have to adjust to provi
 
 ### 9. How can I figure out what my future BOMB rewards will be from the Boardroom?
 
-Let's take a look at a simplified example for a _non-debt phase_: say you have 1 BSHARE staked out of 10 total BSHAREs staked in the Boardroom. In this case, you will receive 10% of the total BOMB printed in the Boardroom.&#x20;
+Let's take a look at a simplified example for a _non-debt phase_: say you have 1 B2SHARE staked out of 10 total B2SHAREs staked in the Boardroom. In this case, you will receive 10% of the total BOMB printed in the Boardroom.&#x20;
 
-For this example we are assuming that there is a total circulating supply of 10,000 BOMB and the current expansion rate is at 4%, so a total of 400 BOMB will be printed in the Boardroom. Under the protocol's current rules, 75% of those newly printed BOMB will be distributed to BSHARE stakers in the Boardroom. (See the [BOMB Distribution](bomb-distribution.md) page for more details on how BOMB is distributed within the protocol.)\
+For this example we are assuming that there is a total circulating supply of 10,000 BOMB and the current expansion rate is at 4%, so a total of 400 BOMB will be printed in the Boardroom. Under the protocol's current rules, 75% of those newly printed BOMB will be distributed to B2SHARE stakers in the Boardroom. (See the [BOMB Distribution](bomb-distribution.md) page for more details on how BOMB is distributed within the protocol.)\
 \
 Therefore, you would get: ((0.04 _\*_ 10000) _\*_ 0.75) \* (1/10) = **30 BOMB**.\
 \
 Thus, the formula to calculate your rewards is as follows:\
-((_ExpansionRate_ \* _CirculatingBOMBSupply)_ \* 0.75) \* (_YourBShareStake_ / _TotalBShareStaked_)
+((_ExpansionRate_ \* _CirculatingBOMBSupply)_ \* 0.75) \* (_YourB2ShareStake_ / _TotalB2ShareStaked_)
 
-### 10. How long will it take for BSHARE to pay itself off from BOMB rewards based on current prices?
+### 10. How long will it take for B2SHARE to pay itself off from BOMB rewards based on current prices?
 
 This will vary constantly as the APR in the Boardroom fluctuates, along with other variables such as the price of BOMB.
 
 &#x20;For a quick estimation, however, you can do the following:
 
 1. Take the total APR shown in the Boardroom and divide that by 365 to get the daily APR. (For this example we will say the daily APR is 5%.) 
-2. Multiply that daily APR by the current market price of the total BSHARE you have staked to see what your daily rewards are. (In this example, we have 5 BSHARE, each worth $500, for a total amount staked of $2500. Your daily return in this case would be $2500 \* 0.05, which comes out to $125 per day.)
-3. Take your initial buy-in price for BSHARE and divide it by your daily rewards. If you bought these 5 BSHARE at a higher price, say $700 for example, in the current market conditions you would recover your initial investment of $3500 in 3500/125 or 28 days.
+2. Multiply that daily APR by the current market price of the total B2SHARE you have staked to see what your daily rewards are. (In this example, we have 5 B2SHARE, each worth $500, for a total amount staked of $2500. Your daily return in this case would be $2500 \* 0.05, which comes out to $125 per day.)
+3. Take your initial buy-in price for B2SHARE and divide it by your daily rewards. If you bought these 5 B2SHARE at a higher price, say $700 for example, in the current market conditions you would recover your initial investment of $3500 in 3500/125 or 28 days.

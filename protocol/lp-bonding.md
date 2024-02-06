@@ -4,7 +4,7 @@
 
 LP Bonding incentivizes users to sell the protocol LPs in return for discounted BOMB tokens. These LPs will support the protocol in building protocol-owned liquidity. This benefits all investors given it allows for far more stable liquidity than the standard DeFi approach of directly incentivizing LP deposits. &#x20;
 
-Currently we offer bonding on BOMB-BTCB, BSHARE-BNB and PHUB-BTCB.  Bonds have a 14-day vesting period which means your discounted payout tokens will be available to claim at the end of this period. This is to reduce immediate sell pressure on the tokens.
+Currently we offer bonding on BOMB-BTCB, B2SHARE-BNB and PHUB-BTCB.  Bonds have a 14-day vesting period which means your discounted payout tokens will be available to claim at the end of this period. This is to reduce immediate sell pressure on the tokens.
 
 **Example (all figures are illustrative)**
 

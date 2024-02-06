@@ -1,20 +1,20 @@
 # Farms
 
-![The Bomb Money farms currently available for staking LP tokens to earn BSHARE rewards](../.gitbook/assets/Farms.png)
+![The Bomb Money farms currently available for staking LP tokens to earn B2SHARE rewards](../.gitbook/assets/Farms.png)
 
-To incentivize healthy liquidity pools for the Bomb Money protocol tokens, our LP farms have been seeded with BSHARE to be distributed as rewards to LP stakers across a time period of 12 months. The total BSHARE rewards are distributed from each farm as follows:
+To incentivize healthy liquidity pools for the Bomb Money protocol tokens, our LP farms have been seeded with B2SHARE to be distributed as rewards to LP stakers across a time period of 12 months. The total B2SHARE rewards are distributed from each farm as follows:
 
-* BOMB-BTCB LP: 25% of BSHARE rewards
-* BSHARE-BNB LP: 25% of BSHARE rewards
-* BOMB Single Stake: 50% of BSHARE rewards
-* ~~BOMB-BSHARE LP: _Deprecated_~~
+* BOMB-BTCB LP: 66.6% of B2SHARE rewards
+* B2SHARE-BNB LP: 33.3% of B2SHARE rewards
+
+
 
 ### **1. What will happen when the circulating supply equals the total supply? Will reward emissions stop?**
 
-Yes. Once the max supply of BSHARE (59.5K) is reached, reward emissions end. This will happen in exactly one year from when the BSHARE farms started on November 25th, 2021. BSHARE will always continue to print BOMB in the Boardroom, though, as long as BOMB remains above peg.
+Yes. Once the max supply of B2SHARE (59.5K) is reached, reward emissions end. This will happen in exactly one year from when the B2SHARE farms started on November 25th, 2021. B2SHARE will always continue to print BOMB in the Boardroom, though, as long as BOMB remains above peg.
 
 {% hint style="danger" %}
-BSHARE reward emissions for the current LP farms are scheduled to end on November 25th, 2022 once the total BSHARE supply has been distributed.
+B2SHARE reward emissions for the current LP farms are scheduled to end on November 25th, 2022 once the total BSHARE supply has been distributed.
 {% endhint %}
 
 ### 2. Why is "at-peg" (TWAP between 1.00 and 1.01) the best time to provide liquidity?

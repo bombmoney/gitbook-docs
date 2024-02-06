@@ -1,6 +1,6 @@
 # Ledger, xBOMB Collateral workaround
 
-A few of our users have experienced problems when trying to deposit xBOMB as collateral into our [busm.money](https://busm.money) protocol when using a Ledger device.
+A few of our users have experienced problems when trying to deposit xBOMB as collateral into our [busm.money](https://busm.money/) protocol when using a Ledger device.
 
 Please follow the steps below to manually fix this problem! (Until a long term fix has been applied).
 
@@ -30,5 +30,5 @@ Please follow the steps below to manually fix this problem! (Until a long term f
 
 * After you have filled in the information correctly, click "**Write**" and confirm the MetaMask transaction.
 
-Once these steps have been completed, you can head back over to [busm.money](https://busm.money) and deposit your xBOMB as collateral, problem solved!
+Once these steps have been completed, you can head back over to [busm.money](https://busm.money/) and deposit your xBOMB as collateral, problem solved!
 
