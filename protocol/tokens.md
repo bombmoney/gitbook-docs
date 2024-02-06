@@ -6,7 +6,7 @@
 
 Contract: [0x522348779DCb2911539e76A1042aA922F9C47Ee3](https://bscscan.com/address/0x522348779dcb2911539e76a1042aa922f9c47ee3)
 
-The BOMB token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain BOMB's peg of 10,000 BOMB = 1 Bitcoin (BTC) in the long run.&#x20;
+The BOMB token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain BOMB's peg of 1,000,000 BOMB = 1 Bitcoin (BTC) in the long run.&#x20;
 
 {% hint style="warning" %}
 Note that BOMB **actively pegs via an algorithm**, but that **does not mean** it will be valued at 10,000 BOMB to 1 BTC at all times as **it is not collateralized**. **BOMB is not to be confused for a crypto or fiat-backed stablecoin.**
@@ -22,20 +22,20 @@ xBOMB is the governance token of BOMB Protocol.  It can be obtained by staking B
 
 Learn more about xBOMB on the [xBOMB - BOMB Staking page](xbomb-bomb-staking.md).
 
-### BSHARES - BOMB Shares
+### B2SHARES - BOMB Shares
 
-![BSHARE](<../.gitbook/assets/bshare-256 (1).png>)
+![B2SHARE](<../.gitbook/assets/bshare-256 (1).png>)
 
-Contract: [0x531780FAcE85306877D7e1F05d713D1B50a37F7A](https://bscscan.com/address/0x531780face85306877d7e1f05d713d1b50a37f7a)
+Contract: 0x0DF73831C00B157bB0FeD3c06eB475F201B64a78
 
-BOMB Shares (BSHARE) are one of the ways to measure the value of the Bomb Money Protocol and shareholder trust in its ability to consistently maintain BOMB close to peg. During epoch expansions the protocol mints BOMB and distributes it proportionally to all BSHARE holders who have staked their tokens in the [**Boardroom**](boardroom.md).
+BOMB Shares (B2SHARE) are one of the ways to measure the value of the Bomb Money Protocol and shareholder trust in its ability to consistently maintain BOMB close to peg. During epoch expansions the protocol mints BOMB and distributes it proportionally to all B2SHARE holders who have staked their tokens in the [**Boardroom**](boardroom.md).
 
-BSHARE has a **maximum total supply of 70,001** tokens distributed as follows:
+B2SHARE has a **maximum total supply of 70,001** tokens distributed as follows:
 
-1. _Treasury/DAO Allocation: 5,500_ BSHARE vested linearly 12 months\*
-2. _Team Allocation: 5,000_ BSHARE vested linearly over 12 months
-3. _Rewards: 59,500_ BSHARE are allocated for incentivizing liquidity providers in two farming pools for 12 months
-4. Initial mint: 1 BSHARE minted upon contract creation for the initial pool
+1. _Treasury/DAO Allocation: 5,500_ B2SHARE vested linearly 12 months\*
+2. _Team Allocation: 5,000_ B2SHARE vested linearly over 12 months
+3. _Rewards: 59,500_ B2SHARE are allocated for incentivizing liquidity providers in two farming pools for 12 months
+4. Initial mint: 1 B2SHARE minted upon contract creation for the initial pool
 
 {% hint style="success" %}
 The Bomb Money team will use the treasury funds in any way that they feel is best for the long-term success of the protocol.&#x20;
