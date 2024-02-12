@@ -24,7 +24,7 @@ Learn more about xBOMB on the [xBOMB - BOMB Staking page](xbomb-bomb-staking.md)
 
 ### B2SHARES - BOMB Shares
 
-![B2SHARE](<../.gitbook/assets/bshare-256 (1).png>)
+![B2SHARE](../.gitbook/assets/b2share-512.png)
 
 Contract: 0x0DF73831C00B157bB0FeD3c06eB475F201B64a78
 
@@ -34,8 +34,8 @@ B2SHARE has a **maximum total supply of 70,001** tokens distributed as follows:
 
 1. _Treasury/DAO Allocation: 5,500_ B2SHARE vested linearly 12 months\*
 2. _Team Allocation: 5,000_ B2SHARE vested linearly over 12 months
-3. _Rewards: 59,500_ B2SHARE are allocated for incentivizing liquidity providers in two farming pools for 12 months
-4. Initial mint: 1 B2SHARE minted upon contract creation for the initial pool
+3. _Rewards: 15,000_ B2SHARE are allocated for incentivizing liquidity providers in two farming pools for 6 months
+4. Bonding / Future farms: 50,000 B2SHARE have been allocated to our protocol gnosis safe for covering LP bonding purchases and future farms.
 
 {% hint style="success" %}
 The Bomb Money team will use the treasury funds in any way that they feel is best for the long-term success of the protocol.&#x20;
