@@ -34,7 +34,7 @@ Users switching from our Maxi pools to our original 50/50 pools normally do so d
 
 Firstly, un-stake your LP from our manual farm [here](https://app.bomb.money/farm/BombMaxiLPBShareRewardPool). After this, go to [Acsi Finance BOMB Maxi](https://app.acsi.finance/#/pool/0xd6f52e8ab206e59a1e13b3d6c5b7f31e90ef46ef000200000000000000000028) and press “**WITHDRAW**” to separate your LP. &#x20;
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Then, ideally, add enough extra BTCB to balance out your BOMB and BTCB holdings. Remember, an easy way to gather extra BTCB funds is to sell your B2SHARE paying manual farm rewards!
 

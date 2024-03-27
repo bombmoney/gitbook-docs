@@ -12,6 +12,6 @@ You can buy B2SHARE over at [PancakeSwap](https://pancakeswap.finance/swap?outpu
 \
 You can also find quick and easy links to purchase each token on the [Bomb Money app's](https://app.bomb.money/) main page:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Now that you know how to buy BOMB and B2SHARE, let's take a look at some strategies in the next section that you can use as a framework for formulating your own investment strategy with Bomb Money.
