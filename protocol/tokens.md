@@ -12,7 +12,7 @@ The BOMB token is designed to be used as a medium of exchange. The built-in stab
 Note that BOMB **actively pegs via an algorithm**, but that **does not mean** it will be valued at 10,000 BOMB to 1 BTC at all times as **it is not collateralized**. **BOMB is not to be confused for a crypto or fiat-backed stablecoin.**
 {% endhint %}
 
-### [xBOMB - BOMB Protocol Governance Token](xbomb-bomb-staking.md)
+### [xBOMB - BOMB Protocol Governance Token](earning-opportunities/xbomb-bomb-staking.md)
 
 ![xBOMB](../.gitbook/assets/xbomb-logo.png)
 
@@ -20,7 +20,7 @@ Contract: [0xAf16cB45B8149DA403AF41C63AbFEBFbcd16264b](https://bscscan.com/addre
 
 xBOMB is the governance token of BOMB Protocol.  It can be obtained by staking BOMB.
 
-Learn more about xBOMB on the [xBOMB - BOMB Staking page](xbomb-bomb-staking.md).
+Learn more about xBOMB on the [xBOMB - BOMB Staking page](earning-opportunities/xbomb-bomb-staking.md).
 
 ### B2SHARES - BOMB Shares
 
@@ -28,7 +28,7 @@ Learn more about xBOMB on the [xBOMB - BOMB Staking page](xbomb-bomb-staking.md)
 
 Contract: 0x0DF73831C00B157bB0FeD3c06eB475F201B64a78
 
-BOMB Shares (B2SHARE) are one of the ways to measure the value of the Bomb Money Protocol and shareholder trust in its ability to consistently maintain BOMB close to peg. During epoch expansions the protocol mints BOMB and distributes it proportionally to all B2SHARE holders who have staked their tokens in the [**Boardroom**](boardroom.md).
+BOMB Shares (B2SHARE) are one of the ways to measure the value of the Bomb Money Protocol and shareholder trust in its ability to consistently maintain BOMB close to peg. During epoch expansions the protocol mints BOMB and distributes it proportionally to all B2SHARE holders who have staked their tokens in the [**Boardroom**](earning-opportunities/boardroom.md).
 
 B2SHARE has a **maximum total supply of 70,001** tokens distributed as follows:
 
@@ -41,7 +41,7 @@ B2SHARE has a **maximum total supply of 70,001** tokens distributed as follows:
 The Bomb Money team will use the treasury funds in any way that they feel is best for the long-term success of the protocol.&#x20;
 {% endhint %}
 
-### [BBOND - BOMB Bonds](bonds-mechanism.md)
+### [BBOND - BOMB Bonds](earning-opportunities/bonds-mechanism.md)
 
 ![BBOND](<../.gitbook/assets/bbond-256 (1).png>)
 

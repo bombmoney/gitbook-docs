@@ -4,7 +4,7 @@ description: How BOMB will be distributed upon supply expansion
 
 # BOMB Distribution
 
-At the beginning of every epoch, if the time-weighted average price (TWAP) of BOMB is greater than 1.01, new BOMB will be minted in the [Boardroom](boardroom.md).
+At the beginning of every epoch, if the time-weighted average price (TWAP) of BOMB is greater than 1.01, new BOMB will be minted in the [Boardroom](earning-opportunities/boardroom.md).
 
 The amount of new BOMB distributed depends on our position above peg and also the current circulating supply of BOMB.
 

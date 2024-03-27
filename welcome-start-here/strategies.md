@@ -22,9 +22,9 @@ If you're already holding BOMB and BTCB in your wallet and know how to throw tha
 
 Once you have familiarized yourself with the Bomb Money protocol and how everything works, you might be interested to try a more active and advanced strategy to diversify your passive income streams and potentially increase yields.
 
-One way to do this would be to buy some BOMB and pair it with BTCB to receive BOMB-BTCB LP tokens. (Refer to the [Provide LP](../helpful-guides/provide-lp.md) section for instructions on how to do this.) You can then stake those LP tokens in our [Farms](../protocol/farms.md) to earn B2SHARE, which you can then withdraw on a regular basis and stake in the [Boardroom](../protocol/boardroom.md) to earn additional BOMB when above peg and the Boardroom is printing.
+One way to do this would be to buy some BOMB and pair it with BTCB to receive BOMB-BTCB LP tokens. (Refer to the [Provide LP](../helpful-guides/provide-lp.md) section for instructions on how to do this.) You can then stake those LP tokens in our [Farms](../protocol/earning-opportunities/farms.md) to earn B2SHARE, which you can then withdraw on a regular basis and stake in the [Boardroom](../protocol/earning-opportunities/boardroom.md) to earn additional BOMB when above peg and the Boardroom is printing.
 
-What you do with the BOMB you earn then is up to you. You could stake it for [xBOMB](../protocol/xbomb-bomb-staking.md), sell it immediately on the open market, or pair it with some fresh BTCB and deposit it into the farms to earn even more compounding returns on those rewards.
+What you do with the BOMB you earn then is up to you. You could stake it for [xBOMB](../protocol/earning-opportunities/xbomb-bomb-staking.md), sell it immediately on the open market, or pair it with some fresh BTCB and deposit it into the farms to earn even more compounding returns on those rewards.
 
 ### **More Complex/Active Strategies**
 

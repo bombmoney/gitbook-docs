@@ -1,6 +1,6 @@
 # Farms
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>The Bomb Money farms currently available for staking LP tokens to earn B2SHARE rewards</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>The Bomb Money farms currently available for staking LP tokens to earn B2SHARE rewards</p></figcaption></figure>
 
 To promote robust liquidity for Bomb Money's protocol tokens, we've strategically infused our LP farms with B2SHARE, offering it as rewards to those staking LP tokens over a span of 6 months. This distribution of B2SHARE rewards is meticulously allocated across our farms to ensure a balanced and thriving ecosystem.
 

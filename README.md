@@ -31,9 +31,9 @@ BOMB is the native token of the Bomb Money protocol. The built-in stability mech
 Bomb Money’s multi-token protocol currently consists of the following four tokens, and each plays a critical role in how the protocol works to maintain peg:
 
 1. **BOMB Tokens ($BOMB)** - The BOMB token is designed for use as a medium of exchange, and is intended to have many other use cases as the Bomb Money ecosystem grows. BOMB is algorithmically pegged to Bitcoin (BTC) at a ratio of 1,000,000 BOMB to 1 BTC.
-2. [**xBOMB Tokens ($XBOMB)**](protocol/xbomb-bomb-staking.md) - xBOMB is the governance token of BOMB Protocol. It can be obtained by staking BOMB. This helps to keep BOMB supply limited while providing another means of earning yield for BOMB holders, among other planned use cases.
-3. **BOMB Shares ($B2SHARE)** - B2SHARE can be staked in the [Boardroom](protocol/boardroom.md) to earn a portion of minted BOMB as rewards to those B2SHARE holders for investing in the health and stability of the protocol.
-4. [**BOMB Bonds ($BBOND)**](protocol/bonds-mechanism.md) - BBOND’s main job is to help incentivize and reward users for helping to regain peg during times of supply contraction below peg.
+2. [**xBOMB Tokens ($XBOMB)**](protocol/earning-opportunities/xbomb-bomb-staking.md) - xBOMB is the governance token of BOMB Protocol. It can be obtained by staking BOMB. This helps to keep BOMB supply limited while providing another means of earning yield for BOMB holders, among other planned use cases.
+3. **BOMB Shares ($B2SHARE)** - B2SHARE can be staked in the [Boardroom](protocol/earning-opportunities/boardroom.md) to earn a portion of minted BOMB as rewards to those B2SHARE holders for investing in the health and stability of the protocol.
+4. [**BOMB Bonds ($BBOND)**](protocol/earning-opportunities/bonds-mechanism.md) - BBOND’s main job is to help incentivize and reward users for helping to regain peg during times of supply contraction below peg.
 
 ## How does it work?
 

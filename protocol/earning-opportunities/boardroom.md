@@ -2,7 +2,7 @@
 
 ## The Boardroom User Interface
 
-![The Boardroom user interface](<../.gitbook/assets/Screenshot 2022-01-26 193115.png>)
+![The Boardroom user interface](<../../.gitbook/assets/Screenshot 2022-01-26 193115.png>)
 
 Let's take a look at each element of the Boardroom user interface and what it means.
 
@@ -31,7 +31,7 @@ Let's take a look at each element of the Boardroom user interface and what it me
     **20%** goes to BOMB stakers (xBOMB)
 
     **5%** goes to DAO fund
-* Epoch Expansion: The current expansion cap is based on the currently circulating BOMB supply (see [BOMB Distribution](bomb-distribution.md) for details). If there are bonds to be redeemed, 65% of minted BOMB goes to the treasury until its sufficiently stocked to satisfy future bond redemption.
+* Epoch Expansion: The current expansion cap is based on the currently circulating BOMB supply (see [BOMB Distribution](../bomb-distribution.md) for details). If there are bonds to be redeemed, 65% of minted BOMB goes to the treasury until its sufficiently stocked to satisfy future bond redemption.
 
 {% hint style="info" %}
 Note that the Boardroom **does not** print any rewards for B2SHARE stakers when the Boardroom TWAP < 1.01.
@@ -81,7 +81,7 @@ Depending on the price of BOMB, the Boardroom print will have to adjust to provi
 
 Let's take a look at a simplified example for a _non-debt phase_: say you have 1 B2SHARE staked out of 10 total B2SHAREs staked in the Boardroom. In this case, you will receive 10% of the total BOMB printed in the Boardroom.&#x20;
 
-For this example we are assuming that there is a total circulating supply of 10,000 BOMB and the current expansion rate is at 4%, so a total of 400 BOMB will be printed in the Boardroom. Under the protocol's current rules, 75% of those newly printed BOMB will be distributed to B2SHARE stakers in the Boardroom. (See the [BOMB Distribution](bomb-distribution.md) page for more details on how BOMB is distributed within the protocol.)\
+For this example we are assuming that there is a total circulating supply of 10,000 BOMB and the current expansion rate is at 4%, so a total of 400 BOMB will be printed in the Boardroom. Under the protocol's current rules, 75% of those newly printed BOMB will be distributed to B2SHARE stakers in the Boardroom. (See the [BOMB Distribution](../bomb-distribution.md) page for more details on how BOMB is distributed within the protocol.)\
 \
 Therefore, you would get: ((0.04 _\*_ 10000) _\*_ 0.75) \* (1/10) = **30 BOMB**.\
 \

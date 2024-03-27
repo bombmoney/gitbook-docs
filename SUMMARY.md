@@ -18,12 +18,13 @@
 ## 💣 Protocol
 
 * [Tokens](protocol/tokens.md)
-* [Boardroom](protocol/boardroom.md)
 * [BOMB Distribution](protocol/bomb-distribution.md)
-* [Bonds (BBOND)](protocol/bonds-mechanism.md)
-* [Farms](protocol/farms.md)
-* [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
-* [LP Bonding](protocol/lp-bonding.md)
+* [Earning Opportunities](protocol/earning-opportunities/README.md)
+  * [Farms](protocol/earning-opportunities/farms.md)
+  * [Bonds (BBOND)](protocol/earning-opportunities/bonds-mechanism.md)
+  * [xBOMB - BOMB Staking](protocol/earning-opportunities/xbomb-bomb-staking.md)
+  * [LP Bonding](protocol/earning-opportunities/lp-bonding.md)
+  * [Boardroom](protocol/earning-opportunities/boardroom.md)
 * [Roadmap](protocol/roadmap.md)
 * [Treasury Transactions](protocol/treasury-transactions.md)
 * [Ledger, xBOMB Collateral workaround](protocol/ledger-xbomb-collateral-workaround.md)
